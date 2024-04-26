@@ -3,7 +3,7 @@
 </h1>
 <img align="right" height="150" src="Programmer Day - Porforever.gif"  />
 
-<h4 align="left">"DevOps aficionado and code enthusiast 🚀 | Always on the lookout for new tech adventures and hungry to learn more! 💻 | Constantly caffeinated ☕ | Lover of automation and efficiency ⚙️ | Anime addict 🐉</h3>
+<h4 align="left">"DevOps aficionado and code enthusiast 🚀 | Always on the lookout for new tech adventures and hungry to learn more! 💻 | Constantly caffeinated ☕ | Lover of automation and efficiency ⚙️ | Anime addict 🐉"</h3>
 
 
 <h3 align="left">Connect with me:</h3>
