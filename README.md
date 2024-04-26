@@ -28,8 +28,6 @@ education:
     "Master's in Computer Engineering",
     "Bachelor's in Information Technology",
   ]
-company: Soulber
-
 fields_of_interests:
   [
     "Automation",
@@ -44,7 +42,6 @@ technical_background:
     "Intern - DevOps Engineer",
     "Jr DevOps Engineer",
   ]
-  
 currently_learning: ["Javascript", "Google Cloud"]
 hobbies: ["Gaming", "Cinema", "Anime"]
 ```
