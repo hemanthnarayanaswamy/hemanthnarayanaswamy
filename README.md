@@ -1,6 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hemanthnarayanaswamy.hemanthnarayanaswamy&"  />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemanth+Narayanaswamy!;" />
 </h1>
+
 <img align="right" height="150" src="Programmer Day - Porforever.gif"  />
 
 <h4 align="left">"DevOps aficionado and code enthusiast 🚀 | Always on the lookout for new tech adventures and hungry to learn more! 💻 | Constantly caffeinated ☕ | Lover of automation and efficiency ⚙️ | Anime addict 🐉"</h3>
